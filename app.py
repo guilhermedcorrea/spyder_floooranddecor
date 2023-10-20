@@ -31,14 +31,7 @@ def scroll() -> None:
             match = True
 
 
-'''
- lista_categorias = ['https://www.flooranddecor.com/laminate','https://www.flooranddecor.com/explore-bathrooms?tab=icon-filter-tabs-1'
-                        ,'https://www.flooranddecor.com/explore-showers?tab=icon-filter-tabs-1'
-                        ,'https://www.flooranddecor.com/explore-backsplashes?tab=icon-filter-tabs-1',
-                        'https://www.flooranddecor.com/explore-kitchens?tab=icon-filter-tabs-1'
-                        ,'https://www.flooranddecor.com/finishing-pieces-tile']
-    
-'''
+
 def get_urlsget_categorias_produtos():
     lista_categorias = [
     'https://www.flooranddecor.com/explore-bathrooms?tab=icon-filter-tabs-1',
